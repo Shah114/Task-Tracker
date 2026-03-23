@@ -105,8 +105,12 @@ The project follows a layered architecture:
 
 ## ⚠️ Note
 
-This project was inspired by a YouTube tutorial, but I implemented and customized it to strengthen my understanding of backend development with Spring Boot.
-https://youtu.be/brnazVsG4cY?si=nxTB8u3A5wjhimY_
+This project was inspired by a tutorial from YouTube.
+I followed the concepts and implementation from the video below and used it as a learning resource to build and understand Spring Boot backend development.
+
+[Spring Boot Task Management App Tutorial](https://support.google.com/youtube/answer/12929858?hl=be&utm_source=chatgpt.com)
+
+Additionally, I explored and modified parts of the project to strengthen my understanding of REST APIs, project structure, and backend logic.
 
 ---
 
