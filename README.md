@@ -121,6 +121,7 @@ Additionally, I explored and modified parts of the project to strengthen my unde
 * Implement authentication (JWT)
 * Add Swagger API documentation
 * Build a frontend (React)
+* Deployment
 
 ---
 
